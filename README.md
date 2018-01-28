@@ -1,2 +1,1 @@
-# prueba1
-es la primera prueba
+## RIGHT JAMMMING PROYECT: https://github.com/BuschBrothers/jammming
